@@ -1,9 +1,9 @@
 
-## Hey, ouuan here! :wave: 
+## Hey, Rui here! :wave: 
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jeremyRZ&show_icons=true&theme=tokyonight">](https://metrics.lecoq.io/jeremyRZ?template=classic)
 
-I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
+I'm **Rui** **Zhao**, a Ph.D student from the University of Hong Kong (HKU), HKSAR.
 
 -   :hammer_and_pick: C++/Qt/GitHub Actions, a little bit Python/JavaScript
 -   :package: Building [CP Editor](https://github.com/cpeditor/cpeditor) and more
