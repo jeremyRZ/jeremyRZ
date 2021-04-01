@@ -4,6 +4,7 @@
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jeremyRZ&show_icons=true&theme=tokyonight">](https://metrics.lecoq.io/jeremyRZ?template=classic)
 
 I'm **Rui** **Zhao**, a Ph.D student from the University of Hong Kong (HKU), HKSAR.
+[![Linkedin Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruizhaohku/)](https://www.linkedin.com/in/ruizhaohku/)
 
 -   :hammer_and_pick: C++/Qt/GitHub Actions, a little bit Python/JavaScript
 -   :package: Building [CP Editor](https://github.com/cpeditor/cpeditor) and more
