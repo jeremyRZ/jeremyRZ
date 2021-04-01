@@ -17,8 +17,8 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
 
 
 
-### Hi there 👋  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremyRZ&show_icons=true&theme=tokyonight)
-
+### Hi there 👋  
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jeremyRZ&show_icons=true&theme=tokyonight">]
 
 Here are some ideas to get you started:!
 
