@@ -1,7 +1,7 @@
 
 ## Hey, ouuan here! :wave: 
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jeremyRZ&show_icons=tokyonight">](https://metrics.lecoq.io/ouuan?template=classic)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jeremyRZ&show_icons=true&theme=tokyonight">](https://metrics.lecoq.io/jeremyRZ?template=classic)
 
 I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
 
