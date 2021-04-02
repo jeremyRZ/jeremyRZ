@@ -37,4 +37,3 @@ I'm **Rui** **Zhao**, a Ph.D student from the University of Hong Kong (HKU), HKS
     ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white)
     ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=plastic&logo=Android%20Studio)
     ![Hyperledger](https://img.shields.io/badge/-Hyperledger-2F3134?style=plastic&logo=Hyperledger)
----
