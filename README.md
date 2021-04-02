@@ -5,6 +5,7 @@
 
 I'm **Rui** **Zhao**, a Ph.D student from the University of Hong Kong (HKU), HKSAR. [![Linkedin Badge](https://img.shields.io/badge/-RuiZhao-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruizhaohku/)](https://www.linkedin.com/in/ruizhaohku/)
 
+
 -   ⚡️ Research Interests: 
     ![Blockchain](https://img.shields.io/badge/-Blockchain-lightgrey)
     ![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-blue)
@@ -27,7 +28,7 @@ I'm **Rui** **Zhao**, a Ph.D student from the University of Hong Kong (HKU), HKS
     ![React](https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=React)
     ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=plastic&logo=Spring)
 
--   💻 Coding Tools I used:[![Linkedin Badge]
+-   :trident: Coding Tools I used:
     ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
     ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
     ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
