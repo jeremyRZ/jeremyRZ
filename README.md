@@ -3,7 +3,9 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jeremyRZ&show_icons=true&theme=tokyonight">](https://metrics.lecoq.io/jeremyRZ?template=classic)
 
-I'm **Rui** **Zhao**, a Ph.D student from the University of Hong Kong (HKU), HKSAR. [![Linkedin Badge](https://img.shields.io/badge/-RuiZhao-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruizhaohku/)](https://www.linkedin.com/in/ruizhaohku/)
+I'm **Rui** **Zhao**, a Ph.D student from the University of Hong Kong (HKU), HKSAR. 
+    [![Linkedin Badge](https://img.shields.io/badge/-RuiZhao-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruizhaohku/)](https://www.linkedin.com/in/ruizhaohku/)
+    [![ResearchGate Badge](https://img.shields.io/badge/-RuiZhao-00CCBB?style=plastic&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Rui-Zhao-81)](https://www.researchgate.net/profile/Rui-Zhao-81)
 
 
 -   ⚡️ Research Interests: 
